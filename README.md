@@ -39,9 +39,11 @@
 
 ## 📸 Screenshots
 
-![Home Page](assets/screenshots/home.png)  
-![Register Car](assets/screenshots/register.png)  
-![Available Cars](assets/screenshots/available.png)  
+![Home Page](assets/home.png)  
+![Register Car](assets/register-car.png)  
+![All Cars](assets/all-cars.png)  
+![Available Cars](assets/available-cars.png)  
+![Booked Cars](assets/booked-cars.png)  
 
 ---
 
