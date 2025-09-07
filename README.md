@@ -1,4 +1,4 @@
-# 🚗✨ AutoLeaseX
+# 🚗✨ AutoLeaseX - “Lease it, Love it! ❤️🚘”
 
 **AutoLeaseX** is a **modern, interactive car rental & sharing web app** built with **Java, Servlets, JSP, Hibernate, and PostgreSQL**. It lets users register cars, book rides, and manage bookings with ease! 🚘💨  
 
