@@ -61,7 +61,7 @@ MIT License © 2025 Nishat Virdi
 ## 📱 Contact
 
 👤 Nishat Virdi  
-[GitHub](https://github.com/Nishatvirdi) | ✉️ Email: nishat@example.com  
+[GitHub](https://github.com/Nishatvirdi) | ✉️ Email: virdinishat@gmail.com  
 
 ---
 
